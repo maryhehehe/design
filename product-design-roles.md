@@ -303,7 +303,7 @@ Regularly communicates and builds relationships with other managers across desig
 
 ### **Product Leadership**
 
-Collaborates closely with Product, Engineering and Data Science leads to define and communicate a strategic vision and high-level objectives for the product areas they manage. Over time, develops an understanding of BuzzFeed's various business lines and goals, as it relates to their teams' products, customers and key health metrics. Uses that knowledge to give informed and useful feedback to project proposals and ongoing product work. Ensures team roadmaps are user-centered, data-informed and consider the entire product ecosystem. Works with their direct reports to build their product thinking skills.
+Collaborates closely with Product, Engineering and Data Science leads to define and communicate a strategic vision and high-level objectives for the product areas they manage. Over time, develops an understanding of GitHub's various business lines and goals, as it relates to their teams' products, customers and key health metrics. Uses that knowledge to give informed and useful feedback to project proposals and ongoing product work. Ensures team roadmaps are user-centered, data-informed and consider the entire product ecosystem. Works with their direct reports to build their product thinking skills.
 
 ### **Culture**
 
